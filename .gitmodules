@@ -1,0 +1,3 @@
+[submodule "creatorsips-frontend"]
+	path = creatorsips-frontend
+	url = https://github.com/Shwetalbhargav/FullStack.git
